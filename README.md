@@ -3,7 +3,7 @@ OptimumLap-VMS
 
 http://vms.groups.pdx.edu
 
-OptimumLap simulation package for Viking Motorsports Electric Vehicle
+OptimumLap simulation package for Viking Motorsports Electric Vehicle. OptimumLap is free, and can be downloaded here: http://www.optimumg.com/software/optimumlap/
 
 For an introduction into the package and **current simulation results** have a look at `OptimumLap for EV.pdf` slideshow at https://github.com/podhrmic/OptimumLap-VMS/blob/master/OptimumLap%20for%20EV.pdf 
 
